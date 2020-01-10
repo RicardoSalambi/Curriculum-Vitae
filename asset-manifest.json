@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Curriculum-Vitae/static/css/main.2d6d31fa.chunk.css",
+    "main.js": "/Curriculum-Vitae/static/js/main.d5af4028.chunk.js",
+    "main.js.map": "/Curriculum-Vitae/static/js/main.d5af4028.chunk.js.map",
+    "runtime-main.js": "/Curriculum-Vitae/static/js/runtime-main.b993e54b.js",
+    "runtime-main.js.map": "/Curriculum-Vitae/static/js/runtime-main.b993e54b.js.map",
+    "static/css/2.7abef457.chunk.css": "/Curriculum-Vitae/static/css/2.7abef457.chunk.css",
+    "static/js/2.9247db2e.chunk.js": "/Curriculum-Vitae/static/js/2.9247db2e.chunk.js",
+    "static/js/2.9247db2e.chunk.js.map": "/Curriculum-Vitae/static/js/2.9247db2e.chunk.js.map",
+    "index.html": "/Curriculum-Vitae/index.html",
+    "precache-manifest.efb866426867b2a277de8ae9e5f5c66f.js": "/Curriculum-Vitae/precache-manifest.efb866426867b2a277de8ae9e5f5c66f.js",
+    "service-worker.js": "/Curriculum-Vitae/service-worker.js",
+    "static/css/2.7abef457.chunk.css.map": "/Curriculum-Vitae/static/css/2.7abef457.chunk.css.map",
+    "static/css/main.2d6d31fa.chunk.css.map": "/Curriculum-Vitae/static/css/main.2d6d31fa.chunk.css.map",
+    "static/js/2.9247db2e.chunk.js.LICENSE": "/Curriculum-Vitae/static/js/2.9247db2e.chunk.js.LICENSE",
+    "static/media/Article1.PNG": "/Curriculum-Vitae/static/media/Article1.4009645f.PNG",
+    "static/media/Article2.PNG": "/Curriculum-Vitae/static/media/Article2.d7553142.PNG",
+    "static/media/IMG_0343.JPG": "/Curriculum-Vitae/static/media/IMG_0343.e00ef2f6.JPG",
+    "static/media/App.css": "/Curriculum-Vitae/static/media/bay-boats-cape-town-cityscape-259447.dd13a5f7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b993e54b.js",
+    "static/css/2.7abef457.chunk.css",
+    "static/js/2.9247db2e.chunk.js",
+    "static/css/main.2d6d31fa.chunk.css",
+    "static/js/main.d5af4028.chunk.js"
+  ]
+}
