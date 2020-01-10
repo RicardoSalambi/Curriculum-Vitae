@@ -1,0 +1,17 @@
+.videoclass{
+    margin: auto;
+    /*background-image:url('./img/multicolored-abstract-painting-1545505.jpg');*/
+    /*min-width: 100vw;*/
+    position: relative;
+    margin-top: 50px;
+    /*opacity: 0.70;*/
+    align-items: center;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+  .video{
+    padding-left: 30vw;
+  }
+  

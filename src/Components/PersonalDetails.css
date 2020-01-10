@@ -1,0 +1,39 @@
+.pimg1{
+    /*background-image: url('./img/multicolored-abstract-painting-1545505.jpg');*/
+    min-height: 100vh;
+    /*min-width: 100vw;*/
+    /*min-width: 100vw;*/
+    /*position: relative;*/
+    /*opacity: 0.70;*/
+    /*background-position: center;*/
+    /*background-size: cover;*/
+    background-repeat: no-repeat;
+  }
+
+  .text{
+    position: absolute;
+    top: 10vh;
+    left: 10vh;
+    width: 30vw;
+    text-align: left;
+    color: #000;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+    background-color: #111;
+    color: #fff;
+    padding: 20px;
+    opacity: 0.7;
+  }  
+  .details{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    font-size: 10px;
+  }
+  .Image{
+    position: absolute;
+    top: 10vh;
+    right: 30vh;
+    height: 30vw;
+    width: 30vw;
+  }

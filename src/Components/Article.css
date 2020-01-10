@@ -1,0 +1,24 @@
+.ArticleImage{
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    padding-left: 50px;
+    padding-top: 50px;
+}
+
+.article1{
+    grid-column: 1;
+    grid-row: 1/2;
+}
+
+.button{
+    margin: auto;
+    padding-left: 40vw;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    /*padding: 40px;*/
+}
+
+.all{
+    min-height: 100vh;
+}
